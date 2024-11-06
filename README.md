@@ -1,3 +1,3 @@
 # github_actions_tutorial
 
-techworld with nana github actions tutorial - basic concepts and cicd pipeline with docker
+a monk in the cloud - hosting your resume on aws ec2 with a cicd setup using github actions aws project demo
